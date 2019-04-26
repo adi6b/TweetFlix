@@ -6,7 +6,7 @@ friends list and performs fltering on some popular movie hash tags. These tweets
 
 ![GitHub Logo](/image/image3.png)
 
-### How to use the WebService
+### How to use the Web Application
 #### 1. How to clone the project locally and Run
 1. Clone the repository using command git clone https://github.com/adi6b/TweetFlix.git
 2. Run the project on your local machine using any IDE 
